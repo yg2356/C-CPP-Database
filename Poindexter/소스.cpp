@@ -221,8 +221,8 @@ int main()
 			_putch('\n');
 			break;
 		case'p':
-			chili::print("\n       Beautiful Chart Bitched!");
-			chili::print("\n       ------------------------\n\n");
+			chili::print("\n       Beautiful Chart!");
+			chili::print("\n       ----------------\n\n");
 			db.Print();
 			_putch('\n');
 			break;
